@@ -1,0 +1,17 @@
+{
+  "name": "mini-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.ts",
+  "type" : "module",
+  "bin" : "game.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
